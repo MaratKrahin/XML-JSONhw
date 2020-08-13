@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CSV" />
-        <module name="JSON" />
-        <module name="Parser" />
         <module name="Db" />
         <module name="XML" />
+        <module name="Parser" />
+        <module name="JSON" />
+        <module name="CSV" />
       </profile>
     </annotationProcessing>
   </component>
